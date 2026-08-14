@@ -1,0 +1,6 @@
+{
+  "name": "COMSTEDA 23 ICT Committee & Attendee Portal",
+  "description": "COMSTEDA 23 ICT and Services Committee progress report, digital deliverables status, and real-time interactive attendee agenda hub.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
